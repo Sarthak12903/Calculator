@@ -1,0 +1,13 @@
+@media (max-width: 440px) {
+  .container {
+    width: 350px;
+    margin-inline: 10px;
+  }
+  .keys {
+    grid-template-columns: repeat(4, 70px);
+  }
+  button {
+    width: 60px;
+    font-size: 1rem;
+  }
+}
